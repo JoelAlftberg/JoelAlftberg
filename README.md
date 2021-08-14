@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoelAlftberg
+- 👋 Hi, I’m Joel
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, SQL and R
 - 📫 You can reach me via email: joel.alftberg98@gmail.com
