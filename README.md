@@ -6,8 +6,8 @@
 - Well documented & clean code
 
 ## About me
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL and R
+- 👀 I’m interested in Data Engineering & Data Science
+- 🌱 I’m currently learning Python and SQL
 - 📫 You can reach me via email: joel.alftberg98@gmail.com
 
 <!---
