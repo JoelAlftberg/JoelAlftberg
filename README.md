@@ -5,10 +5,6 @@
 - The UNIX philosophy 
 - Well documented & clean code
 
-## About me
-- 👀 I’m interested in Data Engineering & Data Science
-- 🌱 I’m currently learning Python and SQL
-- 📫 You can reach me via email: joel.alftberg98@gmail.com
 
 <!---
 JoelAlftberg/JoelAlftberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
