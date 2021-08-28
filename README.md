@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Joel
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=JoelAlftberg&theme=<THEME_NAME>" />
+[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelAlftberg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## What inspires me?
 - Using data and technology to provide real value to people
