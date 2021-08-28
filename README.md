@@ -17,7 +17,7 @@ I'm currently working as a systems administrator, mainly administering Unix & Li
 ## What inspires me? 🦕
 - Learning what goes on inside a system on a very fundamental level, reverse-engineering and tinkering with hardware
 - The UNIX philosophy 
-- Well structured, clean code
+- Optimized code
 
 
 <!---
