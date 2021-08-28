@@ -1,12 +1,23 @@
-# 👋 Hi, I’m Joel
+# 👋 Hi, I’m Joel 
+I'm currently working as a systems administrator, mainly administering Unix & Linux servers.
 
-[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelAlftberg)](https://github.com/anuraghazra/github-readme-stats)
+## My Toolbox 🧰
+- Python
+- Bash
+- C++
+- Some HTML/CSS 
+
+## Currently studying 📚
+- SQL - studying for the 1Z0-071 Oracle Database SQL Certified Associate exam
+- Artificial Intelligence - studying for the AI-900 Microsoft Azure AI Fundamentals exam
+- Calculus and Linear Algebra @ University of Gävle
+- Assembly-language on the ATmega328P microchip
 
 
-## What inspires me?
-- Using data and technology to provide real value to people
+## What inspires me? 🦕
+- Learning what goes on inside a system on a very fundamental level, reverse-engineering and tinkering with hardware
 - The UNIX philosophy 
-- Well documented & clean code
+- Well structured, clean code
 
 
 <!---
