@@ -11,7 +11,7 @@ I'm currently working as a systems administrator, mainly administering Unix & Li
 - SQL - studying for the 1Z0-071 Oracle Database SQL Certified Associate exam
 - Artificial Intelligence - studying for the AI-900 Microsoft Azure AI Fundamentals exam
 - Calculus and Linear Algebra @ University of Gävle
-- Assembly-language on the ATmega328P microchip
+- Assembly on the ATmega328P microchip
 
 
 ## What inspires me? 🦕
