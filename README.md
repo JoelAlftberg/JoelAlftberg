@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Joel 
 I'm currently working as a systems administrator, mainly administering Unix & Linux servers.\
-Mostly commiting here on weekends, otherwise working @ Nordlo
+Mostly active here on weekends, otherwise working @ Nordlo
 
 ## My Toolbox 🧰
 - Python
