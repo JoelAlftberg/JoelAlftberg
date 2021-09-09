@@ -3,11 +3,13 @@ I'm currently working as a systems administrator, mainly administering Unix & Li
 Mostly active here on weekends, otherwise working @ Nordlo
 
 ## My Toolbox 🧰
+Ranked by comfort level
+
 - Python
 - Bash
 - SQL
+- HTML/CSS
 - C++
-- Some HTML/CSS 
 
 ## Currently studying 📚
 - SQL - studying for the 1Z0-071 Oracle Database SQL Certified Associate exam
