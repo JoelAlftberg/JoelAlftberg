@@ -5,6 +5,7 @@ Mostly active here on weekends, otherwise working @ Nordlo
 ## My Toolbox 🧰
 - Python
 - Bash
+- SQL
 - C++
 - Some HTML/CSS 
 
