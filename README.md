@@ -15,7 +15,7 @@ Ranked by comfort level
 - SQL - studying for the 1Z0-071 Oracle Database SQL Certified Associate exam
 - Artificial Intelligence - studying for the AI-900 Microsoft Azure AI Fundamentals exam
 - Calculus and Linear Algebra @ University of Gävle
-- Assembly on the ATmega328P microchip
+- C
 
 
 ## What inspires me? 🦕
