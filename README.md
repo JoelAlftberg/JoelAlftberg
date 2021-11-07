@@ -12,10 +12,9 @@ Ranked by comfort level
 - C/C++
 
 ## Currently studying 📚
-- SQL - studying for the 1Z0-071 Oracle Database SQL Certified Associate exam
 - Artificial Intelligence - studying for the AI-900 Microsoft Azure AI Fundamentals exam
-- Calculus and Linear Algebra @ University of Gävle
-- C - Reading the book Effective C
+- OCI - studying for the Oracle Cloud Architect Associate certification
+- Python - Reading the book Gray Hat Python
 
 
 ## What inspires me? 🦕
