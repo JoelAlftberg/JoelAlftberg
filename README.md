@@ -9,7 +9,7 @@ Ranked by comfort level
 - Bash
 - SQL
 - HTML/CSS
-- C++
+- C/C++
 
 ## Currently studying 📚
 - SQL - studying for the 1Z0-071 Oracle Database SQL Certified Associate exam
