@@ -12,9 +12,9 @@ Ranked by comfort level
 - C/C++
 
 ## Currently studying 📚
-- Artificial Intelligence - studying for the AI-900 Microsoft Azure AI Fundamentals exam
 - OCI - studying for the Oracle Cloud Architect Associate certification
-- Python - Reading the book Gray Hat Python
+- Reading Bulletproof SSL and TLS by Ivan Ristić
+- TryHackMe.com Challenges and Information Security
 
 
 ## What inspires me? 🦕
