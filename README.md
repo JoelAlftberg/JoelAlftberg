@@ -12,7 +12,8 @@ Ranked by comfort level
 - C/C++
 
 ## Currently studying 📚
-- OCI - studying for the Oracle Cloud Architect Associate certification
+- OCI - Studying for the Oracle Cloud Architect Associate certification
+- Pentest+ - Studying for Comptia Pentest+
 - Reading Bulletproof SSL and TLS by Ivan Ristić
 - TryHackMe.com Challenges and Information Security
 
