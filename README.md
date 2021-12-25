@@ -21,7 +21,7 @@ Ranked by comfort level
 ## What inspires me? 🦕
 - Learning what goes on inside a system on a very fundamental level, reverse-engineering and tinkering with hardware
 - The UNIX philosophy 
-- Optimized code
+- Wi-Fi and RF exploitation
 
 
 <!---
