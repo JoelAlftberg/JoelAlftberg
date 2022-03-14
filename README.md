@@ -12,7 +12,7 @@ Ranked by comfort level
 - C/C++
 
 ## Currently studying 📚
-Java @ Luleå Tekniska Universitet
+Java @ Luleå Tekniska Universitet \
 Docker and Terraform @ KodeKloud
 
 ## What inspires me? 🦕
