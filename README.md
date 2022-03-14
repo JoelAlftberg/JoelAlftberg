@@ -12,17 +12,11 @@ Ranked by comfort level
 - C/C++
 
 ## Currently studying 📚
-- OCI - Studying for the Oracle Cloud Architect Associate certification
-- Pentest+ - Studying for Comptia Pentest+
-- Reading Bulletproof SSL and TLS by Ivan Ristić
-- TryHackMe.com Challenges and Information Security
 
 
 ## What inspires me? 🦕
 - Learning what goes on inside a system on a very fundamental level, reverse-engineering and tinkering with hardware
 - The UNIX philosophy 
-- Wi-Fi and RF exploitation
-
 
 <!---
 JoelAlftberg/JoelAlftberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
