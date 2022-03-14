@@ -5,10 +5,9 @@ Mostly active here on weekends, otherwise working @ Nordlo
 ## My Toolbox 🧰
 Ranked by comfort level
 
-- Python
 - Bash
+- Python
 - SQL
-- HTML/CSS
 - C/C++
 
 ## Currently studying 📚
