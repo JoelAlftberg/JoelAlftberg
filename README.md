@@ -8,11 +8,10 @@ Ranked by comfort level
 - Bash
 - Python
 - SQL
-- C/C++
+- C#
 
 ## Currently studying 📚
-Java @ Luleå Tekniska Universitet \
-Terraform and Ansible @ KodeKloud
+
 
 ## What inspires me? 🦕
 - Learning what goes on inside a system on a very fundamental level, reverse-engineering and tinkering with hardware
