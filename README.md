@@ -1,21 +1,18 @@
 # 👋 Hi, I’m Joel 
-I'm currently working as a systems administrator, mainly administering Unix & Linux servers.\
-Mostly active here on weekends, otherwise working @ Nordlo
+I'm currently working as a DevOps engineer, mainly administering K8s clusters and Azure environments.\
+Mostly active here on weekends, otherwise working @ Cuviva AB
 
 ## My Toolbox 🧰
 Ranked by comfort level
 
-- Bash
 - Python
-- SQL
+- Bash
 - C#
-
-## Currently studying 📚
 
 
 ## What inspires me? 🦕
+- Infrastructure, mostly in the software world but also at a more bare-metal level
 - Learning what goes on inside a system on a very fundamental level, reverse-engineering and tinkering with hardware
-- The UNIX philosophy 
 
 <!---
 JoelAlftberg/JoelAlftberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
