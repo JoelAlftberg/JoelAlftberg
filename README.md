@@ -13,7 +13,7 @@ I bring a solid foundation in **IT Infrastructure and Operations**, with hands-o
 - **Windows Server** - Enterprise server management
 - **Azure** - Cloud infrastructure and services
 - **Kubernetes** - Container orchestration and management
-- **Database Management/SQL** - Database administration and optimization (MSSQL & PostgreSQL)
+- **Database Management/** - Database administration and optimization (MSSQL & PostgreSQL)
 
 ## 🔧 Current Focus
 I'm passionate about bridging the gap between hardware and software, focusing on:
