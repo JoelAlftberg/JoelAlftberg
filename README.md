@@ -12,6 +12,7 @@ I bring a solid foundation in **IT Infrastructure and Operations**, with hands-o
 - **Linux & Unix** - System administration and operations
 - **Windows Server** - Enterprise server management
 - **Azure** - Cloud infrastructure and services
+- **CI/CD** - Automating building and deployment of applications (Azure DevOps/GitLab)
 - **Kubernetes** - Container orchestration and management
 - **Database Management/** - Database administration and optimization (MSSQL & PostgreSQL)
 
