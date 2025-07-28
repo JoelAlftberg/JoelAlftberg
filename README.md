@@ -6,7 +6,7 @@ I'm currently studying **Electrical Engineering and Embedded Software Developmen
 - **Electrical Engineering & Embedded Software Development** - Yrgo (Current)
 
 ## 💼 Professional Background
-I bring a solid foundation in **IT Infrastructure and Operations**, with hands-on experience in:
+I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on experience in:
 
 ### Systems & Technologies
 - **Linux & Unix** - System administration and operations
@@ -14,7 +14,7 @@ I bring a solid foundation in **IT Infrastructure and Operations**, with hands-o
 - **Azure** - Cloud infrastructure and services
 - **CI/CD** - Automating building and deployment of applications (Azure DevOps/GitLab)
 - **Kubernetes** - Container orchestration and management
-- **Database Management/** - Database administration and optimization (MSSQL & PostgreSQL)
+- **Database Management/** - Database administration  (MSSQL & PostgreSQL)
 
 ## 🔧 Current Focus
 I'm passionate about bridging the gap between hardware and software, focusing on:
@@ -30,9 +30,10 @@ I'm passionate about bridging the gap between hardware and software, focusing on
 - Embedded systems architecture
 
 ## 📫 Let's Connect!
-I'm always interested in discussing embedded systems, hardware projects, or IT infrastructure. Feel free to reach out!
+I'm always interested in discussing embedded systems, hardware projects, or anything low-level. Feel free to reach out!
 https://www.linkedin.com/in/joel-alftberg/
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoelAlftberg)](https://git.io/streak-stats)
 <!---
 JoelAlftberg/JoelAlftberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
