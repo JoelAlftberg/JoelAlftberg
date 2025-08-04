@@ -30,10 +30,8 @@ I'm passionate about bridging the gap between hardware and software, focusing on
 - Embedded systems architecture
 
 ## 📫 Let's Connect!
-I'm always interested in discussing embedded systems, hardware projects, or anything low-level. Feel free to reach out!
 https://www.linkedin.com/in/joel-alftberg/
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoelAlftberg)](https://git.io/streak-stats)
 <!---
 JoelAlftberg/JoelAlftberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
