@@ -29,9 +29,6 @@ I'm passionate about bridging the gap between hardware and software, focusing on
 - Signal processing
 - Embedded systems architecture
 
-## 📫 Let's Connect!
-https://www.linkedin.com/in/joel-alftberg/
-
 <!---
 JoelAlftberg/JoelAlftberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
