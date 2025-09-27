@@ -14,7 +14,7 @@ I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on
 - **Azure** - Cloud infrastructure and services
 - **CI/CD** - Automating building and deployment of applications (Azure DevOps/GitLab)
 - **Kubernetes** - Container orchestration and management
-- **Database Management/** - Database administration  (MSSQL & PostgreSQL)
+- **Database Management** - Database administration  (MSSQL & PostgreSQL)
 
 ## 🔧 Current Focus
 I'm passionate about bridging the gap between hardware and software, focusing on:
