@@ -4,18 +4,7 @@ I'm currently studying **Electrical Engineering and Embedded Software Developmen
 
 ## 🎓 Education
 - **Electrical Engineering & Embedded Software Development** - Yrgo (Current)
-
-## 💼 Professional Background
-I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on experience in:
-
-### Systems & Technologies
-- **Linux & Unix** - System administration and operations
-- **Windows Server** - Enterprise server management
-- **Azure** - Cloud infrastructure and services
-- **CI/CD** - Automating building and deployment of applications (Azure DevOps/GitLab)
-- **Kubernetes** - Container orchestration and management
-- **Database Management** - Database administration  (MSSQL & PostgreSQL)
-
+- 
 ## 🔧 Current Focus
 I'm passionate about bridging the gap between hardware and software, focusing on:
 - Embedded systems development
@@ -28,6 +17,17 @@ I'm passionate about bridging the gap between hardware and software, focusing on
 - Hardware design principles
 - Signal processing
 - Embedded systems architecture
+- 
+## 💼 Professional Background
+I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on experience in:
+
+### Systems & Technologies
+- **Linux & Unix** - System administration and operations
+- **Windows Server** - Enterprise server management
+- **Azure** - Cloud infrastructure and services
+- **CI/CD** - Automating building and deployment of applications (Azure DevOps/GitLab)
+- **Kubernetes** - Container orchestration and management
+- **Database Management** - Database administration  (MSSQL & PostgreSQL)
 
 <!---
 JoelAlftberg/JoelAlftberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
