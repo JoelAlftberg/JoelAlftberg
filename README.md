@@ -4,7 +4,7 @@ I'm currently studying **Electrical Engineering and Embedded Software Developmen
 
 ## 🎓 Education
 - **Electrical Engineering & Embedded Software Development** - Yrgo (Current)
-- 
+
 ## 🔧 Current Focus
 I'm passionate about bridging the gap between hardware and software, focusing on:
 - Embedded systems development
@@ -17,7 +17,7 @@ I'm passionate about bridging the gap between hardware and software, focusing on
 - Hardware design principles
 - Signal processing
 - Embedded systems architecture
-- 
+ 
 ## 💼 Professional Background
 I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on experience in:
 
