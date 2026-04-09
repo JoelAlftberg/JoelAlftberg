@@ -13,7 +13,7 @@ I'm passionate about bridging the gap between hardware and software, focusing on
 - Real-time systems
 
 ## 🌱 What I'm Learning
-- Low-level programming languages (C/C++)
+- C/C++
 - Hardware design principles
 - Signal processing
 - Embedded systems architecture
@@ -23,10 +23,10 @@ I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on
 
 ### Systems & Technologies
 - **Linux & Unix** - System administration and operations
-- **Windows Server** - Enterprise server management
-- **Azure** - Cloud infrastructure and services
 - **CI/CD** - Automating building and deployment of applications (Azure DevOps/GitLab)
 - **Kubernetes** - Container orchestration and management
+- **Azure** - Cloud infrastructure and services
+- **Windows Server** - Enterprise server management
 - **Database Management** - Database administration  (MSSQL & PostgreSQL)
 
 <!---
