@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm currently studying **Electrical Engineering and Embedded Software Development** at [Chalmers], where I'm diving deep into the intersection of hardware and software systems.
+I'm currently studying **Electrical Engineering** at Chalmers, where I'm diving deep into the intersection of hardware and software systems.
 
 ## 🎓 Education
 - **Electrical Engineering** - Chalmers (Current)
