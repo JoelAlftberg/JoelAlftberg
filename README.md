@@ -1,9 +1,9 @@
 # Hi there! 👋
 
-I'm currently studying **Electrical Engineering and Embedded Software Development** at [Yrgo](https://www.yrgo.se/), where I'm diving deep into the intersection of hardware and software systems.
+I'm currently studying **Electrical Engineering and Embedded Software Development** at [Chalmers], where I'm diving deep into the intersection of hardware and software systems.
 
 ## 🎓 Education
-- **Electrical Engineering & Embedded Software Development** - Yrgo (Current)
+- **Electrical Engineering** - Chalmers (Current)
 
 ## 🔧 Current Focus
 I'm passionate about bridging the gap between hardware and software, focusing on:
