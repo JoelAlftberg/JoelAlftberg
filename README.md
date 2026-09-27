@@ -24,6 +24,7 @@ I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on
 ### Systems & Technologies
 - **Linux & Unix** - System administration and operations
 - **CI/CD** - Automating building and deployment of applications (Azure DevOps/GitLab)
+- **Virtualization** - Deploying and configuring hypervisors (VMware & OpenStack)
 - **Kubernetes** - Container orchestration and management
 - **Azure** - Cloud infrastructure and services
 - **Windows Server** - Enterprise server management
