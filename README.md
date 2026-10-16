@@ -1,23 +1,5 @@
 # Hi there! 👋
 
-I'm currently studying **Electrical Engineering** at Chalmers, where I'm diving deep into the intersection of hardware and software systems.
-
-## 🎓 Education
-- **Electrical Engineering** - Chalmers (Current)
-
-## 🔧 Current Focus
-I'm passionate about bridging the gap between hardware and software, focusing on:
-- Embedded systems development
-- Microcontroller programming
-- Circuit design and analysis
-- Real-time systems
-
-## 🌱 What I'm Learning
-- C/C++
-- Hardware design principles
-- Signal processing
-- Embedded systems architecture
- 
 ## 💼 Professional Background
 I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on experience in:
 
