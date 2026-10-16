@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## 💼 Professional Background
-I come from a backogrund  in **IT Infrastructure and Operations**, with hands-on experience in:
+I come from a background  in **IT Infrastructure and Operations**, with hands-on experience in:
 
 ### Systems & Technologies
 - **Linux & Unix** - System administration and operations
